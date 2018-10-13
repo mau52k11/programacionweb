@@ -14,7 +14,7 @@
     <p>
         Me gusta jugar videojuegos en especial Starcraft
     </p>
-    <img src="images/starcraft.png" width="400" alt="Logo de Starcraft" />
+    <img src="starcraft.png" width="400" alt="Logo de Starcraft" />
 
     <h2>
         PNGs
@@ -22,7 +22,7 @@
     <p>
         Me gusta jugar como deporte Voleibol
     </p>
-    <img src="images/voli.jpg" width="400" alt="Voleibol" />
+    <img src="voli.jpg" width="400" alt="Voleibol" />
 
     <h2>
         GIFs
@@ -30,6 +30,6 @@
     <p>
         Me gusta ver mucho el anime
     </p>
-    <img src="images/anime.gif" width="400" alt="Voleibol" />
+    <img src="anime.gif" width="400" alt="Voleibol" />
 </body>
 </html>
