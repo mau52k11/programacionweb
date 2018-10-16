@@ -14,7 +14,7 @@
     <p>
         Me gusta jugar videojuegos en especial Starcraft
     </p>
-    <img src="starcraft.png" width="400" alt="Logo de Starcraft" />
+    <img src="https://eu.battle.net/forums/static/images/game-logos/game-logo-sc2.png" alt="starcraft" /></a>
 
     <h2>
         PNGs
@@ -22,7 +22,7 @@
     <p>
         Me gusta jugar como deporte Voleibol
     </p>
-    <img src="voli.jpg" width="400" alt="Voleibol" />
+    <img src="https://www.urgentebo.com/sites/default/files/Celta-Femenino-de-Voleibol.jpg" alt="Voli2" /></a>
 
     <h2>
         GIFs
@@ -30,6 +30,9 @@
     <p>
         Me gusta ver mucho el anime
     </p>
-    <img src="anime.gif" width="400" alt="Voleibol" />
+    <img src="https://gifsanimados.de/img-gifsanimados.de/a/anime/chica-llorando.gif" alt="Loli" /></a>
+    <p>
+        Regresar a la Pagina anterior <a href="curriculum.html">Aqui</a>
+    </p>
 </body>
 </html>
