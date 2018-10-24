@@ -18,6 +18,13 @@ p:first-of-type{
     width: 200px;
     margin: 20px auto;
 }
+h1, p {
+    background-color: #DDE0E3;    /* Light gray */
+}
+
+h2, p {
+    background-color: #DDE0E3;    /* Light gray */
+}
 
 .page{
     width:600px;
