@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="floats.css">
+        <title>Bloques Flotantes</title>
+    </head>
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="col-1"></div>
+                <div class="col-2"></div>
+                <div class="col-3"></div>
+            </div>
+            <div class="footer"></div>
+        </div>
+
+    </body>
+</html>
